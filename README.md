@@ -21,5 +21,4 @@ Links
 -----
 
 * pdf.js: <https://github.com/mozilla/pdf.js>
-* ViewerJS: <http://viewerjs.org/instructions/>
-** another pdf web viewer.
+* ViewerJS: <http://viewerjs.org/instructions/> another pdf web viewer.
