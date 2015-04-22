@@ -17,6 +17,12 @@ And then...
   .....
 </pre>
 
+Sample Output
+-----
+Sample output is available at following url.
+
+* jupdf: Utility Package of PDF.js <http://whitebase.org/jupdf>
+
 Links
 -----
 
