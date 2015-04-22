@@ -17,9 +17,9 @@ Download the zip package and unpack it, put jupdf directory on on your web direc
 
  Insert below html code with specifying pdf file parameter (file path or url).
 
-<pre>
+```html
  <iframe src="jupdf?file=path/to/pdffile.pdf" width='600' height='450' scrolling="no" allowfullscreen webkitallowfullscreen></iframe>
-</pre>
+```
 
 Sample Output
 -----
