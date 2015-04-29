@@ -29,7 +29,7 @@ Sample output is available at following url.
 
 Contact
 -----
-jupdf is a project run by Yukio HORI / �ٹ�ͺ. 
+jupdf is a project run by Yukio HORI / 堀幸雄. 
 It is open-source and commercial at the same time.
 
 * You can send us a mail: horiyuki@whitebase.org
