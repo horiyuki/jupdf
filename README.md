@@ -27,6 +27,13 @@ Sample output is available at following url.
 
 * jupdf: Utility Package of PDF.js <http://whitebase.org/jupdf>
 
+Contact
+-----
+jupdf is a project run by Yukio HORI / ËÙ¹¬Íº. 
+It is open-source and commercial at the same time.
+
+* You can send us a mail: horiyuki@whitebase.org
+
 Links
 -----
 
