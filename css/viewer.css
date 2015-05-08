@@ -96,6 +96,31 @@ select {
   -ms-user-select: none;
 }
 
+#prevcontainer { 
+  overflow: auto;
+  -webkit-overflow-scrolling: touch;
+  position: absolute;
+  float: left;
+  top: 29px;
+  left: 0;
+  bottom: 34px;
+  width: 15%;
+  outline: none;
+}
+
+#nextcontainer { 
+  overflow: auto;
+  -webkit-overflow-scrolling: touch;
+  position: absolute;
+  float: right;
+  top: 29px;
+  right: 0;
+  bottom: 34px;
+  width: 15%;
+  outline: none;
+}
+
+
 :-webkit-full-screen a:not(.internalLink) {
   display: none;
 }
