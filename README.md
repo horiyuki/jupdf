@@ -1,7 +1,7 @@
-jupdf: Utility Package of PDF.js
+jupdf: Utility viewer of PDF.js
 ===================
 
-**jupdf** is a Utility Package of PDF.js. 
+**jupdf** is a Utility viewer of PDF.js. 
 jupdf allows you to use pdf viewer on your own web site without any external dependencies.
 jupdf uses and bundles mozilla PDF.js. 
 
@@ -25,7 +25,7 @@ Sample Output
 -----
 Sample output is available at following url.
 
-* jupdf: Utility Package of PDF.js <http://whitebase.org/jupdf>
+* jupdf: Utility viewer of PDF.js <http://whitebase.org/jupdf>
 
 Contact
 -----
