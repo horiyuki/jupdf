@@ -106,6 +106,7 @@ select {
   bottom: 34px;
   width: 15%;
   outline: none;
+  cursor: url(images/prev.png), pointer;
 }
 
 #nextcontainer { 
@@ -118,6 +119,7 @@ select {
   bottom: 34px;
   width: 15%;
   outline: none;
+  cursor: url(images/next.png), pointer;
 }
 
 
