@@ -1615,6 +1615,19 @@ html[dir='rtl'] #documentPropertiesOverlay .row > * {
     content: url(images/findbarButton-next-rtl@2x.png);
   }
 
+  #firstPage::before {
+    content: url(images/secondaryToolbarButton-firstPage@2x.png);
+  }
+
+  .toolbarButton.aboutlogo::before,
+  .secondaryToolbarButton.aboutlogo::before {
+    content: url(images/about@2x.png);
+  }
+
+  #lastPage::before {
+    content: url(images/secondaryToolbarButton-lastPage@2x.png);
+  }
+
   html[dir='ltr'] .toolbarButton.pageUp::before {
     content: url(images/toolbarButton-pageUp@2x.png);
   }
