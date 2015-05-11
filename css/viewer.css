@@ -119,7 +119,7 @@ select {
   bottom: 34px;
   width: 15%;
   outline: none;
-  cursor: url(images/next.cur), pointer;
+  cursor: url(images/next.png), pointer;
 }
 
 
